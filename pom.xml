@@ -7,7 +7,7 @@
 	</parent>
 	<groupId>me.soliveirajr</groupId>
 	<artifactId>neural-network</artifactId>
-	<version>0.1.1</version>
+	<version>0.1.2-SNAPSHOT</version>
 	<name>NeuralNetwork</name>
 	<description>Simple Neural Network implementation based on the book "Make Your Own Neural Network" by Tariq Rashid.</description>
 	<url>https://github.com/saoj/NeuralNetwork</url>
